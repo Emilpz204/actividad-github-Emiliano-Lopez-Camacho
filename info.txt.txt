@@ -1,0 +1,14 @@
+Emiliano Lopez Camacho
+
+3 de febrero del 2026
+
+Aprender a crear un proyecto en github, clonar el repositorio, 
+crear nueva rama, realizarle cambios, guardar y crear una pull request
+
+
+Qué es un Pull Request (definición breve)
+es una solicitud formal para integrar cambios de código de una rama a otra
+ (generalmente la rama principal), funcionando como una plataforma
+ de colaboración para la revisión y discusión de esos cambios 
+antes de que sean fusionados, lo que ayuda a mantener la calidad 
+del código y detectar errores temprano.
